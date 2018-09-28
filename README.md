@@ -1,1 +1,1 @@
-# exo_ruby
+Mes exercices du jour 5 :) :)
